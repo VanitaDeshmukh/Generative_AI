@@ -23,9 +23,6 @@ This project leverages the power of OpenAI to create an intelligent assistant th
 - **Personalized Assistance**: The application adapts to users' preferences and learning styles, providing personalized assistance for effective preparation.
 - **Accessibility**: Available anytime, anywhere, the GenAI App ensures that users have access to valuable interview preparation resources whenever they need them.
 
-## About the Creator
-The GenAI App was created by Deepraj Vadhwane, a passionate Data Scientist dedicated to Explore new things
-
 ## Conclusion
 The GenAI App revolutionizes the way aspiring Data Scientists prepare for interviews. 
 By combining the power of OpenAI with user-friendly design, it offers an innovative solution to the challenges faced by interviewees.
